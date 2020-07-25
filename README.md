@@ -1,6 +1,11 @@
-### Hi there 👋
+# DataSource.ai
+## Open Innovation in Data Science
 
-- 🔭 I’m currently working on [datasource.ai](https://www.datasource.ai "DataSource's Homepage")
-- 🌱 I’m currently learning deep learning
-- 👯 I’m looking to collaborate on data science projects
-- 🤔 I’m looking for help with datasource
+We are a platform that acts as an innovation intermediary* for your AI projects. Here you can take advantage of collective intelligence by accessing a pool of more than 1410 data scientists and machine learning engineers from all over Latin America.
+
+### How it works?
+If you want access to a large pool of talent in data science, machine learning or deep learning for get a new or better perspective on a project you are stuck in should look at our platform.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/veG3tt4XJOU/0.jpg)](https://www.youtube.com/watch?v=veG3tt4XJOU)
+
+

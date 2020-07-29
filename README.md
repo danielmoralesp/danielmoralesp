@@ -1,8 +1,5 @@
-# [DataSource.ai](https://www.datasource.ai) 
+[![DataSource.ai](https://www.datasource.ai/assets/application/logos/datasource.png)](https://www.datasource.ai)
 ## Open Innovation in Data Science
-
-![](https://www.datasource.ai/assets/application/logos/datasource.png)
-
 
 [DataSource.ai](https://www.datasource.ai) is a platform that acts as an innovation intermediary* for your AI projects. Here you can take advantage of collective intelligence by accessing a pool of more than 1410 data scientists and machine learning engineers from all over Latin America.
 

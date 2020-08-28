@@ -4,7 +4,7 @@
 We democratize data science competitions, allowing startups to sponsor challenges and award prizes accessible to them. We give startups access to a global talent pool to help them solve their problems using machine learning. We are [DataSource.ai](https://www.datasource.ai)
 
 
-### We rethink competitions
+### We rethink data scienece competitions
 #### Startups
 Other data science competition platforms are focused on large (very large!) companies. Our approach is to democratize data science competitions. After all, sponsoring a $50,000 USD (or 1 million USD) competition is not for every kind of company. That is why we decided to rethink the way data science competitions are built and decided to focus on startups of any size and from anywhere in the world!
 

@@ -1,15 +1,8 @@
-[![DataSource.ai](https://www.datasource.ai/assets/application/logos/datasource.png)](https://www.datasource.ai)
-## Data Science Competitions For Startups
+## Hi there_
+I'm Daniel,
 
-We democratize data science competitions, allowing startups to sponsor challenges and award prizes accessible to them. We give startups access to a global talent pool to help them solve their problems using machine learning. We are [DataSource.ai](https://www.datasource.ai)
+Team player software engineer with a can-do and always learning attitude, phenomenal time management skills, and a strong user focus. Has developed several web apps as CTO Co-founder and Lead-tech, including a machine learning competitions platform focused on a global market and one e-commerce with 100.000+ customers
 
+Collaborated with multiple teams daily to build back-end applications for clients and self-projects. Versed on Ruby, Ruby and Rails and PostgreSQL. He can build robust and modern web applications for several high-volume businesses. Spearheaded the company idea generation program. Improved efficiency in software development cycle by 48%.
 
-### We rethink data scienece competitions
-#### Startups
-Other data science competition platforms are focused on large (very large!) companies. Our approach is to democratize data science competitions. After all, sponsoring a $50,000 USD (or 1 million USD) competition is not for every kind of company. That is why we decided to rethink the way data science competitions are built and decided to focus on startups of any size and from anywhere in the world!
-
-#### Prizes and Timing
-Startups can sponsor competitions from $499 USD, which do not take as long to solve (only 4 weeks), and can launch multiple competitions (because they can afford it) and thus solve real-world (medium and high complexity) problems with sophisticated machine learning algorithms. Now any startup can access the same solutions of the big companies, but at a lower cost and less time!
-
-#### Data Scientists
-All data science competition platforms are built for data scientists trying to win huge cash prizes and in which "super-senior" teams always win, thus decreasing the chances of winning. All kinds of talent in data science can participate here, at any level and from anywhere in the world, and everyone will have a real chance to win money prizes. We are democratizing competitions in data science, it's a win-win-win!
+Passioned for back-end frameworks like Ruby on Rails. Strong skills on Object-Oriented Programming (OOP), RESTful architecture, scalable apps, SQL, TDD, BDD, Docker, AWS, Kubernetes, Git, GitHub, SCRUM methodologies, Software Design, and UX/UI. Knowledge on front-end frameworks. Data Scientist and Machine Learning enthusiast. Lifelong learner

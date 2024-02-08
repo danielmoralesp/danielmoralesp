@@ -1,7 +1,7 @@
 ## Hi there_
 I'm Daniel,
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoralesp&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoralesp)
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmoralesp)](https://github.com/danielmoralesp/github-readme-stats)
 

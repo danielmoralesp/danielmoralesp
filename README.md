@@ -3,7 +3,7 @@ I'm Daniel,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoralesp)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmoralesp)](https://github.com/danielmoralesp/github-readme-stats)
+[comment]: <> [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmoralesp)](https://github.com/danielmoralesp/github-readme-stats)
 
 Team player software engineer with a can-do and always learning attitude, phenomenal time management skills, and a strong user focus.
 

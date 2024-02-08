@@ -1,6 +1,8 @@
 ## Hi there_
 I'm Daniel,
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmoralesp)](https://github.com/danielmoralesp/github-readme-stats)
+
 Team player software engineer with a can-do and always learning attitude, phenomenal time management skills, and a strong user focus.
 
 Collaborated with multiple teams daily to build back-end applications. Versed on Ruby, Ruby On Rails and PostgreSQL. He can build robust and modern web applications for several high-volume businesses. Spearheaded the company idea generation program. Improved efficiency in software development cycle by 48%.
